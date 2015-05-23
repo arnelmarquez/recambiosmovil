@@ -1,1 +1,8 @@
 <icon src="http://recambiosmovil.net/ic_launcher.png" />
+<icon src="http://recambiosmovil.net/ic_launcher.png" gap:platform="android" gap:qualifier="ldpi" />
+<icon src="http://recambiosmovil.net/ic_launcher.png" gap:platform="android" gap:qualifier="mdpi" />
+<icon src="http://recambiosmovil.net/ic_launcher.png" gap:platform="android" gap:qualifier="hdpi" />
+<icon src="http://recambiosmovil.net/ic_launcher.png" gap:platform="android" gap:qualifier="xhdpi" />
+<icon src="http://recambiosmovil.net/ic_launcher.png" gap:platform="android" gap:qualifier="xxhdpi" />
+<icon src="http://recambiosmovil.net/ic_launcher.png" gap:platform="android" gap:qualifier="fr-xxhdpi" />
+
